@@ -1,0 +1,37 @@
+
+header {
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(124, 126, 121);
+    border-radius: 1cm;
+    align-items: center;
+}
+.p {
+    height: 300px;
+    width: 300px;
+}
+
+footer {
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(124, 126, 121);
+    border-radius: 1cm;
+}
+
+main{
+    margin-top: 30px;
+    color: white;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+.mario {
+    height: 40px;
+    width: 40px;
+}
